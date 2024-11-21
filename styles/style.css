@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+* {
+    font-family: "Doto";
+}
+
 body {
     background-color: rgb(255,255,255);
     animation-name: colorchange;
